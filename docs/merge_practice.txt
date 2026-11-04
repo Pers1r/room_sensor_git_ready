@@ -1,0 +1,1 @@
+Dashboard refresh interval: 1 second.
