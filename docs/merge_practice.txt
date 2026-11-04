@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dashboard refresh interval: 5 seconds.
+=======
+Dashboard refresh interval: 1 second.
+>>>>>>> practice/fast-refresh
